@@ -5,6 +5,7 @@ import (
 	"os"
 )
 
+
 // Reader reads
 type Reader struct {
 	Filename string
